@@ -1,6 +1,6 @@
 // Portuguese Brazil
 SimpleReactValidator.addLocale('br', {
-  accepted             : 'Você não aceito o :attribute .',
+  accepted             : 'Você não aceitou o :attribute.',
   after                : 'O campo :attribute deve conter uma data posterior a :date.',
   after_or_equal       : 'O campo :attribute deve conter uma data posterior ou igual a :date.',
   alpha                : 'O campo :attribute deve conter apenas letras.',
@@ -9,7 +9,7 @@ SimpleReactValidator.addLocale('br', {
   // alpha_num_space      : 'O campo :attribute deve conter apenas letras, números e espaços.',
   // alpha_num_dash       : 'O campo :attribute deve conter apenas letras, números e traços (hífens).',
   // alpha_num_dash_space : 'O campo :attribute deve conter apenas letras, números, traços (hífens) e espaços.',
-  array                : 'O campo :attribute deve conter um conjunto de dados.',
+  array                : 'O campo :attribute deve ser um conjunto de dados.',
   before               : 'O campo :attribute deve conter uma data anterior a :date.',
   before_or_equal      : 'O campo :attribute deve conter uma data anterior ou igual a :date.',
   between              : 'O campo :attribute deve conter um valor entre :min - :max:type.',
